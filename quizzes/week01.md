@@ -60,6 +60,7 @@ font-weight
 ```
 <ol></ol>
 <ul></ul>
+<dl></dl> (a description list, with with terms dt and descriptions dd)
 ```
 
 **10.** Define the display `:flex property:`
@@ -71,5 +72,5 @@ font-weight
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+width, height, padding (left, right etc), margin (left, right etc), border
 ```
