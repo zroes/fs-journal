@@ -66,7 +66,7 @@ font-weight
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+If i understand correctly, display flex is mainly for laying out a webpage when you want more than simple rows, or "blocks" of content as you see with display block. Flex allows putting content side-by-side, and more flexibility in general when designing a page.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
