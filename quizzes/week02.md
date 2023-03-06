@@ -13,7 +13,7 @@ let, const, and var
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+SOLID is an acronym that stands for five key design principles: single responsibility principle, open-closed principle, Liskov substitution principle, interface segregation principle, and dependency inversion principle
 ```
 **4.** Given this array: 
 ```js
@@ -55,18 +55,25 @@ i++ or ++i would both work to increment by 1.
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+Document object model, HTML
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+Language syntax (parsing rules, keywords, control flow, object literal initialization, ...)
+Error handling mechanisms (throw, try...catch, ability to create user-defined Error types)
+Types (boolean, number, string, function, object, ...)
+A prototype-based inheritance mechanism
+Built-in objects and functions, including JSON, Math, Array methods, parseInt, decodeURI, etc.
+Strict mode
+A module system
+Basic memory model
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+Parameters are used when creating a function, while arugments are what actually get passed into the function.
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
